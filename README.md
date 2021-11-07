@@ -25,7 +25,7 @@ The start menu:
 More options:
 - You can see the available figures (1), show the current painting (2), clear the painting (3) and insert figure at a random position in your painting (4).
 
-![More options menu](misc/start_menu.png "More options menu")
+![More options menu](misc/more_options_menu.png "More options menu")
 
 Inserting figure in the painting (random position):
 - You can choose the size of some figures: small (1), medium (2) and big (3).
